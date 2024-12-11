@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 app = FastAPI()
 
 # TSheets API credentials
-TSHEETS_TOKEN = "S.3__ad7db4a0ed0d10f5c4bd47a12f91013e9f6a9209"
+TSHEETS_TOKEN = "TOKEN"
 TSHEETS_BASE_URL = "https://rest.tsheets.com/api/v1"
 
 #print("tsheets url:", url)
